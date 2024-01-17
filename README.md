@@ -13,15 +13,6 @@ He organizado los proyectos de menor a mayor dificultad, con la intención de pr
 
 ¡Les deseo mucha suerte a todos los desarrolladores! 💻"
 
-## 🎨 Solución Proyectos
-
-[SOON](https://linktodocumentation)
-
-
-
-## Soporte
-
-En caso de alguna duda, no duden en contactarme a newoscardev@gmail.com
 
 
 ## Roadmap
@@ -42,4 +33,12 @@ En caso de alguna duda, no duden en contactarme a newoscardev@gmail.com
 
     8. Tienda en linea
 
+## 🎨 Solución Proyectos
 
+[SOON](https://linktodocumentation)
+
+
+
+## Soporte
+
+En caso de alguna duda, no duden en contactarme a newoscardev@gmail.com
